@@ -1,12 +1,16 @@
-# #yapiver  To-Do App with React Hooks
+# Basic To-Do App with React Hooks
 
-![](http://www.myiconfinder.com/icon/download/5beae3f3b25bb0ecf639c2ab5ab703e6.ico~7951)
+![](https://4.bp.blogspot.com/-zI5LKkOqdxw/UYh2HZ827fI/AAAAAAAAAsU/JLCA21bVJ4U/s1600/list.png)
 
+![node-current](https://img.shields.io/node/v/create-react-app)
 ![npm](https://img.shields.io/npm/v/npm)
 
-###How-to Use It!
+How-to Use It!
+
 > Just Use !t.
 
 cloned from [Dmitry Sharabin](https://d12n.me/)
+
 reduced by [Mehmet Seven](https://github.com/meseven)
+
 React-ed by Me :)
