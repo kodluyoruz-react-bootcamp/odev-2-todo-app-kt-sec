@@ -36,11 +36,22 @@ function Header({data}) {
         }
     };
 
+    const checkAllItems = () => {
+        var getList = JSON.parse(localStorage.getItem("testObject"));
+
+        getList.forEach(item=>item.done = !item.done);
+
+        localStorage.setItem("testObject",JSON.stringify(getList));
+
+        data.setList(getList);
+    }
+
     const inputId = "input";
     return (
         <header className={"header"}>
                 <label
-                id={"checkallitems"} 
+                id={"checkallitems"}
+                onClick={checkAllItems} 
                 className={styles.checkall}
                 >❯</label>
                 {/*add onClick value to convert all done values true/false */}
