@@ -14,3 +14,7 @@ cloned from [Dmitry Sharabin](https://d12n.me/)
 reduced by [Mehmet Seven](https://github.com/meseven)
 
 React-ed by Me :)
+
+# App Screen
+
+![](https://github.com/kodluyoruz-react-bootcamp/odev-2-todo-app-kt-sec/blob/main/images/appScreen.png)
