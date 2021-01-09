@@ -5,7 +5,7 @@ function Header({data}) {
     const addItem = (e) => {
         if(e.key==="Enter"){
             // For first addition create a local storage
-            if(localStorage.getItem("testObject")===null){
+            if(JSON.parse(localStorage.getItem("testObject"))===null){
                 localStorage.setItem("testObject","[]");
                 localStorage.setItem("lastIndex",0);
             }
