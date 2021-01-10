@@ -1,6 +1,6 @@
 # Basic To-Do App with React Hooks
 
-![Live Preview](https://kodluyoruz-kemal-tarhan-todo.netlify.app/)
+[Live Preview](https://kodluyoruz-kemal-tarhan-todo.netlify.app/)
 
 ![](https://4.bp.blogspot.com/-zI5LKkOqdxw/UYh2HZ827fI/AAAAAAAAAsU/JLCA21bVJ4U/s1600/list.png)
 
